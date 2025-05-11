@@ -1,3 +1,9 @@
+## 📋 <a name="Welcome"> Brainwave Website </a>
+
+Welcome to the our Brainwave website!
+
+# our website link : open [https://brainwave-eta-azure.vercel.app/]
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -54,7 +60,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/subratamondalnsec/Brainwave.git
+
 cd brainwave
 ```
 
