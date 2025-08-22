@@ -2,7 +2,7 @@
 
 Welcome to **Brainwave** – a futuristic and sleek AI app design platform that redefines modern UI/UX standards. Built with cutting-edge design principles, Brainwave showcases the best of interactive user experiences for modern web applications.
 
-🔗 **Live Site**: [https://brainwave-eta-azure.vercel.app/](https://brainwave-eta-azure.vercel.app/)
+ **Live Site**: [https://brainwave-eta-azure.vercel.app/](https://brainwave-eta-azure.vercel.app/)
 
 ---
 
@@ -99,5 +99,5 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open  [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
